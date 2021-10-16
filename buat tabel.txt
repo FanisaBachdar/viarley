@@ -1,0 +1,22 @@
+<!dogtype html>
+<html>
+<head>
+<title> membuat tabel </title>
+</html>
+</head>
+<body>
+<table border="1" widh="23">
+<tr>
+<td>no</td>
+<td>nama</td>
+</tr>
+<tr>
+<td>1</td>
+<td>mikasa</td>
+</tr>
+<tr>
+<td>2</td>
+<td>eren</td>
+</tr>
+</tabel>
+
